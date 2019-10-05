@@ -1,0 +1,13 @@
+# settings!
+sleipnir_version = '0.0.1'
+db_version = '0.1'
+
+[credentials]
+bot_token = 'TOKEN'
+db_name = ''
+db_uname = ''
+db_pass = ''
+
+[owner]
+owner_id = [
+    ]
